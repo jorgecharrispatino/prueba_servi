@@ -9,6 +9,9 @@ autopep8 = "*"
 [packages]
 django = "*"
 djangorestframework = "*"
+django-extensions = "*"
+jupyter = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.8"
